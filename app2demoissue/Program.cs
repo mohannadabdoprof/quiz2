@@ -1,8 +1,10 @@
-﻿namespace app2demoissue
+using System;
+
+namespace app2demoissue
 {
     internal class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
         }
